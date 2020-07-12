@@ -3,8 +3,8 @@
 This project was created for Udacity's [Become a React Developer Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019).
 
 The MyReads project, is a bookshelf app that allows you to select and
-categorize books you have read, are currently reading, or want to read. The project uses React
-and a client library that allows the user to persist information.
+categorize books you have read, are currently reading, or want to read. The project uses React and
+a client library that allows the user to persist information.
 
 ## Getting Started
 
